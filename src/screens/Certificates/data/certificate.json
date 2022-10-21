@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Certified Entry-Level Python Programmer (PCEP)",
+        "organization": "Python",
+        "skill": "Python",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Certified Associate in Python Programmer (PCAP)",
+        "organization": "Python",
+        "skill": "Python",
+        "active": false,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Enterprise Design Thinking Practitioner",
+        "organization": "IBM",
+        "skill": "UX UI Design",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Enterprise Design Thinking Co-Creator",
+        "organization": "IBM",
+        "skill": "UX UI Design",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Enterprise Design Thinking - Team Essentials for AI",
+        "organization": "IBM",
+        "skill": "UX UI Design",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Oracle Certified Profestional",
+        "organization": "Oracle",
+        "skill": "Database",
+        "active": false,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Oracle Certified Associate",
+        "organization": "Oracle",
+        "skill": "Database",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Scrum Fundamentals Certified",
+        "organization": "Scrum Fundamental",
+        "skill": "Project Management",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Scrum Fundamentals Certified",
+        "organization": "Scrum Fundamental",
+        "skill": "Project Management",
+        "active": true,
+        "avatar": "https://spng.subpng.com/20190123/ktl/kisspng-computer-icons-vector-graphics-person-portable-net-myada-baaranmy-teknik-servis-hizmetleri-5c48d5c23034f9.2474238715482771861975.jpg"
+    }
+]

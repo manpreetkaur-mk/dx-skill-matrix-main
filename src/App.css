@@ -1,0 +1,33 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+/* SideBar css */
+.Sidebar {
+    width: 6.25rem;
+    background-color: #1B1B3D;
+    height: 100vh;
+}
+.MuiTableSortLabel-icon {
+color:#34D48F;
+}
+
+ul#BottomMenu {
+    position: absolute;
+    bottom: 1.375rem;
+    left: 0.875rem;
+}
+
+.MainContainer {
+    width: 100vw;
+    background-color: #F6F6FB;
+    padding: 0 1.875rem;
+}
+
